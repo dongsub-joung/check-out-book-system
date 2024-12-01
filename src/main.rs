@@ -16,7 +16,7 @@ fn main() {
     cli::logo(); 
 }
 
-
+// @todo ORM diesel
 // use tokio_postgres::{NoTls, Error};
 
 // #[tokio::main]
